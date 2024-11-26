@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rey, a student of Automation at PUT and a Tech enthusiast 
+- 👋 Hi, I’m Rey, a Cloud Automation Engineer
 - 👀 I’m interested in Automation and Robotics 
 - 🌱 I’m currently learning Robot programming in ROS
 - 💞️ I’m looking to collaborate on various projects of interest in fields like robotics and automation
